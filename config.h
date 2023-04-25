@@ -47,8 +47,8 @@
 
 /* RGB Defines */
 #define RGB_DI_PIN GP21
-#define RGB_MATRIX_LED_COUNT 5
-#define RGBLED_NUM 5
+#define RGB_MATRIX_LED_COUNT 35
+#define RGBLED_NUM 35
 
 /* Enable Framebuffer and keypress effects */
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
