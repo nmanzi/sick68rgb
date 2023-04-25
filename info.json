@@ -4,8 +4,8 @@
     "url": "https://www.thingiverse.com/thing:3478494",
     "maintainer": "nmanzi",
     "usb": {
-        "vid": "0x5E68",
-        "pid": "0x5F01",
+        "vid": "0x1209",
+        "pid": "0xD334",
         "device_version": "0.0.1"
     },
     "bootmagic": {
